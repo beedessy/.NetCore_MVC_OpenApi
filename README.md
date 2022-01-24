@@ -1,7 +1,7 @@
 # .NetCore_MVC_OpenApi
 Still developing.
 
-With the plenty of CLI commands to memorize, it is supportive to have an API which returns us commands that we regularly disregard. (C#, ASP.NET Center, MVC, SQL Server, REST API)
+With the plenty of CLI commands to memorize, it is supportive to have an API which returns us commands that we regularly disregard. (C#, ASP.NET Center, MVC, SQL Server, Open API)
 
 The purpose of this project is to learn and practice concepts related to:
 
