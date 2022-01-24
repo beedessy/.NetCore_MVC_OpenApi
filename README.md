@@ -12,5 +12,6 @@ The purpose of this project is to learn and practice concepts related to:
 
 -.NET Core
 
-![image](https://user-images.githubusercontent.com/56188746/150789905-a824e0c5-1544-4730-b990-e3dd9a40ccb8.png)
+![image](https://user-images.githubusercontent.com/56188746/150790033-c4522c2d-f3ab-4c7f-9b44-099b30b21f12.png)
+
 
